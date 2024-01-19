@@ -20,8 +20,8 @@ python main.py
 
 #### Ejemplos de Uso
 ![grafo_0](https://github.com/HonroAvispa0001/Algoritmos-de-Busqueda/assets/73007200/0cb86980-7609-4932-808c-6cd33377c3c4)
-![grafo_1](https://github.com/HonroAvispa0001/Algoritmos-de-Busqueda/assets/73007200/22e83258-d73b-4b93-aa0c-14ba85456984)
-#Grafos generados con el grafos_creator.py
+
+#Grafo generado con el grafos_creator.py
 
 1er ejemplo llegar de 3 a 7
 #### Solución con ACO
@@ -33,6 +33,3 @@ python main.py
 #### Contribuciones
 Las mejoras y sugerencias son siempre bienvenidas. Si tienes ideas para mejorar el código o añadir nuevas características, considera contribuir a través de 'pull requests' o 'issues'.
 
----
-
-Este README proporciona una guía detallada para entender y utilizar tu repositorio. Puedes personalizarlo agregando ejemplos específicos y capturas de pantalla en la sección de "Ejemplos de Uso". ¿Hay algo más en lo que te pueda ayudar?
