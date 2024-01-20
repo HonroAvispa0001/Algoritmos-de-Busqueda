@@ -33,3 +33,5 @@ python main.py
 #### Contribuciones
 Las mejoras y sugerencias son siempre bienvenidas. Si tienes ideas para mejorar el código o añadir nuevas características, considera contribuir a través de 'pull requests' o 'issues'.
 
+Ref: https://inaoe.repositorioinstitucional.mx/jspui/bitstream/1009/394/1/IbarraBMN.pdf
+
